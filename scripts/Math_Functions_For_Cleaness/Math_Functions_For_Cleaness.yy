@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Math_Functions_For_Cleaness",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Math_Functions_For_Cleaness",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
